@@ -6,6 +6,7 @@
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<img src="https://readme-typing-svg.demolab.com/?lines=CSE+(AI+%26+ML)+Student;Aspiring+Full-Stack+Developer;AI+%26+ML+Enthusiast;Python+Programmer;Open+Source+Learner&font=Fira+Code&center=true&width=600&height=50&color=3b82f6&vCenter=true&size=22" />
 
 <h3><code>amogh@github ~ $ ./contributions.sh</code></h3>
 
