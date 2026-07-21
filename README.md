@@ -57,9 +57,10 @@ Hi, I'm Amogh <br><br> B.Tech Student | Aspiring Full-Stack Developer<br><br>I a
      
 <h3><code>amogh@github ~ $ ./stats.sh</code></h3>
 
+</p>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amogh0786&theme=github-compact&hide_border=true"/>
 
-</p>
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amogh0786&theme=github_dark"/>
