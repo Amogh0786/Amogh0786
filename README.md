@@ -7,34 +7,58 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
+<h3><code>amogh@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Amogh's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>amogh@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" /></td>
+<td valign="top"><img src="./amogh-ascii2.svg" width="370" alt="Amogh — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card2.svg" width="490" alt="Amogh — experience, stack, highlights" /></td>
 </tr>
 </table>
 
 <br>
 <br>
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<h3><code>amogh@github ~ $ ./links.sh</code></h3>
 
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+<p align="center">
+  <i>"Code. Learn. Build. Repeat. 🚀"</i>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bala-amogh-raj-4b9722352">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<br>
+  <a href="mailto:balaamoghraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Amogh0786">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
+
+**About Me:**
+
+Hi, I'm Amogh <br><br> B.Tech Student | Aspiring Full-Stack Developer<br><br>I am passionate about building web applications, learning new technologies, and solving real-world problems through code. Currently, I am focusing on Web Development, JavaScript, React.js, and Python while continuously improving my problem-solving skills.<br><br>## What I'm Working On<br>- Building responsive web applications<br>- Learning React.js and modern JavaScript<br>- Practicing Data Structures & Algorithms<br>- Exploring Open Source contributions<br><br>##  Tech Stack<br>HTML • CSS • Python • Git • GitHub<br><br>##  Goals<br>- Gain hands-on industry experience through internships<br>- Contribute to open-source projects<br>- Become a skilled Full-Stack Developer<br><br>> "Success is built through consistency, learning, and continuous improvement."
+
+<center><h3><code>amogh@github ~ $ ./stats.sh</code></h3></center>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amogh0786&theme=github-compact&hide_border=true"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amogh0786&theme=github_dark"/>
+
+</p>

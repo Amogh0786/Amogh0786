@@ -20,8 +20,8 @@ from PIL import Image
 from rembg import remove
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-INP = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "source-photo.jpg")
-OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(HERE, "..", "source-prepped.png")
+INP = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "amogh.jpg")
+OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(HERE, "..", "source-prepped2.png")
 
 # 1. cut out the subject
 cut = remove(Image.open(INP).convert("RGBA"))
