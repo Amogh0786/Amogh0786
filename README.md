@@ -45,6 +45,9 @@
 
 <p align="center">
      <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,php&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,js,vite&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,figma&theme=dark" />
 </p>
 
 </div>
