@@ -43,6 +43,10 @@
 
 <h3><code>amogh@github ~ $ ./techstack.sh</code></h3>
 
+<p align="center">
+     <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,php&theme=dark" />
+</p>
+
 </div>
 
 **About Me:**
