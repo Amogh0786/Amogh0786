@@ -41,6 +41,8 @@
   </a>
 </p>
 
+<h3><code>amogh@github ~ $ ./techstack.sh</code></h3>
+
 </div>
 
 **About Me:**
