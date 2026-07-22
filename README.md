@@ -8,13 +8,6 @@
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 <img src="https://readme-typing-svg.demolab.com/?lines=CSE+(AI+%26+ML)+Student;Aspiring+Full-Stack+Developer;AI+%26+ML+Enthusiast;Python+Programmer;Open+Source+Learner&font=Fira+Code&center=true&width=600&height=50&color=3b82f6&vCenter=true&size=22" />
 
-<h3><code>amogh@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Amogh's GitHub contribution graph — auto-refreshed daily" />
-
-<br>
-<br>
-
 <h3><code>amogh@github ~ $ whoami</code></h3>
 
 <table>
@@ -24,8 +17,9 @@
 </tr>
 </table>
 
-<br>
-<br>
+<h3><code>amogh@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Amogh's GitHub contribution graph — auto-refreshed daily" />
 
 <h3><code>amogh@github ~ $ ./links.sh</code></h3>
 
