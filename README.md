@@ -47,7 +47,7 @@
      <img src="https://skillicons.dev/icons?i=py,ts,java,cpp,c&theme=dark" />
      <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,js,vite&theme=dark" />
      <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" />
-     <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,figma&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode,postman,figma&theme=dark" />
 </p>
 
 </div>
