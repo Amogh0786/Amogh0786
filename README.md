@@ -50,8 +50,6 @@
      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode,postman,figma&theme=dark" />
 </p>
 
-</div>
-
 <h3><code>amogh@github ~ $ ./stats.sh</code></h3>
 
 <p align="center">
@@ -61,3 +59,4 @@
 <p align="center">
   <img src="./profile-summary-card.svg" width="860" alt="Amogh's GitHub Profile Summary Card — auto-refreshed daily" />
 </p>
+</div>
