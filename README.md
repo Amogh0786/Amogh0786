@@ -76,16 +76,12 @@ HTML • CSS • Python • Git • GitHub
 
 > "Success is built through consistency, learning, and continuous improvement."
 
-<p align="center">
-     
 <h3><code>amogh@github ~ $ ./stats.sh</code></h3>
 
+<p align="center">
+  <img src="./activity-graph.svg" width="860" alt="Amogh's GitHub Activity Graph — auto-refreshed daily" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amogh0786&theme=github-compact&hide_border=true"/>
-
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amogh0786&theme=github_dark"/>
-
+  <img src="./profile-summary-card.svg" width="860" alt="Amogh's GitHub Profile Summary Card — auto-refreshed daily" />
 </p>
