@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h3><code>amogh@github ~ $ ./techstack.sh -- icons</code></h3>
+<h3><code>amogh@github ~ $ ./techstack.sh --icons</code></h3>
 
 <p align="center">
      <img src="https://skillicons.dev/icons?i=py,ts,java,cpp,c&theme=dark" />
