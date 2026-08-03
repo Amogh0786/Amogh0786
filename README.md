@@ -52,30 +52,6 @@
 
 </div>
 
-**About Me:**
-
-Hi, I'm Amogh 
-
-B.Tech Student | Aspiring Full-Stack Developer
-
-I am passionate about building web applications, learning new technologies, and solving real-world problems through code. Currently, I am focusing on Web Development, JavaScript, React.js, and Python while continuously improving my problem-solving skills.
-
-## What I'm Working On
-- Building responsive web applications
-- Learning React.js and modern JavaScript
-- Practicing Data Structures & Algorithms
-- Exploring Open Source contributions
-
-## Tech Stack
-HTML • CSS • Python • Git • GitHub
-
-## Goals
-- Gain hands-on industry experience through internships
-- Contribute to open-source projects
-- Become a skilled Full-Stack Developer
-
-> "Success is built through consistency, learning, and continuous improvement."
-
 <h3><code>amogh@github ~ $ ./stats.sh</code></h3>
 
 <p align="center">
