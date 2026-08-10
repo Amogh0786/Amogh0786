@@ -56,8 +56,6 @@
 
 </div>
 
-> "Success is built through consistency, learning, and continuous improvement."
-
 <h3><code>amogh@github ~ $ ./stats.sh</code></h3>
 
 <p align="center">
