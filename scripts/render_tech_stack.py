@@ -15,7 +15,7 @@ MUTED = "#7d8590"
 TEXT = "#e6edf3"
 
 W = 860
-H = 420
+H = 340
 PAD = 24
 TITLEBAR_H = 30
 
@@ -102,18 +102,19 @@ def render_tech_stack():
     y += 35
     
     links = [
-        ("LinkedIn", "linkedin.com/in/bala-amogh-raj-4b9722352", "#0077B5", "delay-7"),
-        ("Email", "balaamoghraj@gmail.com", "#D14836", "delay-7"),
-        ("GitHub", "github.com/Amogh0786", "#ffffff", "delay-7")
+        ("LinkedIn", "https://www.linkedin.com/in/bala-amogh-raj-4b9722352", "#0077B5", "delay-7"),
+        ("Email", "mailto:balaamoghraj@gmail.com", "#D14836", "delay-7"),
+        ("GitHub", "https://github.com/Amogh0786", "#ffffff", "delay-7")
     ]
 
     parts.append(f'<g class="row delay-7">')
     curr_x = x_start
     for label, url, color, delay in links:
-        box_w = 260
-        parts.append(f'<rect x="{curr_x}" y="{y - 14}" width="{box_w}" height="28" rx="6" fill="#161b22" stroke="{color}" stroke-opacity="0.4" stroke-width="1.5"/>')
-        parts.append(f'<text x="{curr_x + 12}" y="{y + 4}" fill="{TEXT}" font-size="12" font-weight="700">{label}</text>')
-        parts.append(f'<text x="{curr_x + 75}" y="{y + 4}" fill="{MUTED}" font-size="11">{url}</text>')
+        box_w = 120
+        parts.append(f'<a href="{url}" target="_blank">')
+        parts.append(f'<rect x="{curr_x}" y="{y - 14}" width="{box_w}" height="28" rx="6" fill="#161b22" stroke="{color}" stroke-opacity="0.4" stroke-width="1.5" cursor="pointer"/>')
+        parts.append(f'<text x="{curr_x + box_w/2}" y="{y + 5}" fill="{TEXT}" font-size="12" font-weight="700" text-anchor="middle" cursor="pointer">{label}</text>')
+        parts.append('</a>')
         curr_x += box_w + 15
     parts.append(f'</g>')
     

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" viewBox="0 0 860 420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <style>
 @keyframes fadein {
   from { opacity: 0; transform: translateY(4px); }
@@ -19,8 +19,8 @@
 <defs>
 <linearGradient id="abg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#0a0e14"/></linearGradient>
 </defs>
-<rect width="860" height="420" rx="12" fill="url(#abg)"/>
-<rect x="0.5" y="0.5" width="859" height="419" rx="12" fill="none" stroke="#1f6feb" stroke-width="1" stroke-opacity="0.55"/>
+<rect width="860" height="340" rx="12" fill="url(#abg)"/>
+<rect x="0.5" y="0.5" width="859" height="339" rx="12" fill="none" stroke="#1f6feb" stroke-width="1" stroke-opacity="0.55"/>
 <line x1="0" y1="30" x2="860" y2="30" stroke="#1f6feb" stroke-opacity="0.35"/>
 <circle cx="24" cy="15.0" r="5" fill="#ff5f56"/>
 <circle cx="40" cy="15.0" r="5" fill="#ffbd2e"/>
@@ -97,14 +97,17 @@
 <text x="34" y="245" fill="#39d353" font-size="14" font-weight="700">&gt; system.get_links()</text>
 </g>
 <g class="row delay-7">
-<rect x="34" y="266" width="260" height="28" rx="6" fill="#161b22" stroke="#0077B5" stroke-opacity="0.4" stroke-width="1.5"/>
-<text x="46" y="284" fill="#e6edf3" font-size="12" font-weight="700">LinkedIn</text>
-<text x="109" y="284" fill="#7d8590" font-size="11">linkedin.com/in/bala-amogh-raj-4b9722352</text>
-<rect x="309" y="266" width="260" height="28" rx="6" fill="#161b22" stroke="#D14836" stroke-opacity="0.4" stroke-width="1.5"/>
-<text x="321" y="284" fill="#e6edf3" font-size="12" font-weight="700">Email</text>
-<text x="384" y="284" fill="#7d8590" font-size="11">balaamoghraj@gmail.com</text>
-<rect x="584" y="266" width="260" height="28" rx="6" fill="#161b22" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1.5"/>
-<text x="596" y="284" fill="#e6edf3" font-size="12" font-weight="700">GitHub</text>
-<text x="659" y="284" fill="#7d8590" font-size="11">github.com/Amogh0786</text>
+<a href="https://www.linkedin.com/in/bala-amogh-raj-4b9722352" target="_blank">
+<rect x="34" y="266" width="120" height="28" rx="6" fill="#161b22" stroke="#0077B5" stroke-opacity="0.4" stroke-width="1.5" cursor="pointer"/>
+<text x="94.0" y="285" fill="#e6edf3" font-size="12" font-weight="700" text-anchor="middle" cursor="pointer">LinkedIn</text>
+</a>
+<a href="mailto:balaamoghraj@gmail.com" target="_blank">
+<rect x="169" y="266" width="120" height="28" rx="6" fill="#161b22" stroke="#D14836" stroke-opacity="0.4" stroke-width="1.5" cursor="pointer"/>
+<text x="229.0" y="285" fill="#e6edf3" font-size="12" font-weight="700" text-anchor="middle" cursor="pointer">Email</text>
+</a>
+<a href="https://github.com/Amogh0786" target="_blank">
+<rect x="304" y="266" width="120" height="28" rx="6" fill="#161b22" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1.5" cursor="pointer"/>
+<text x="364.0" y="285" fill="#e6edf3" font-size="12" font-weight="700" text-anchor="middle" cursor="pointer">GitHub</text>
+</a>
 </g>
 </svg>
