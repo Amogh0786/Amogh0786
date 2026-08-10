@@ -21,7 +21,11 @@
 
 <img src="./contrib-heatmap.svg" width="860" alt="Amogh's GitHub contribution graph — auto-refreshed daily" />
 
-<h3><code>amogh@github ~ $ ./links.sh</code></h3>
+<h3><code>amogh@github ~ $ ./techstack.sh</code></h3>
+
+<p align="center">
+  <img src="./tech-stack.svg" width="860" alt="Amogh's Tech Stack and Links" />
+</p>
 
 <p align="center">
   <i>"Code. Learn. Build. Repeat. 🚀"</i>
@@ -49,6 +53,32 @@
      <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" />
      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode,postman,figma&theme=dark" />
 </p>
+
+</div>
+
+**About Me:**
+
+Hi, I'm Amogh 
+
+B.Tech Student | Aspiring Full-Stack Developer
+
+I am passionate about building web applications, learning new technologies, and solving real-world problems through code. Currently, I am focusing on Web Development, JavaScript, React.js, and Python while continuously improving my problem-solving skills.
+
+## What I'm Working On
+- Building responsive web applications
+- Learning React.js and modern JavaScript
+- Practicing Data Structures & Algorithms
+- Exploring Open Source contributions
+
+## Tech Stack
+HTML • CSS • Python • Git • GitHub
+
+## Goals
+- Gain hands-on industry experience through internships
+- Contribute to open-source projects
+- Become a skilled Full-Stack Developer
+
+> "Success is built through consistency, learning, and continuous improvement."
 
 <h3><code>amogh@github ~ $ ./stats.sh</code></h3>
 
