@@ -73,8 +73,8 @@ def render_tech_stack():
     tech_groups = [
         ("LANGUAGES", ["Python", "TypeScript", "Java", "C++", "C"], "#f2cc60", "delay-2"),
         ("FRONTEND", ["React.js", "Next.js", "HTML", "CSS", "Tailwind", "JavaScript", "Vite"], "#58a6ff", "delay-3"),
-        ("BACKEND & DB", ["Node.js", "Express", "PHP", "MySQL", "PostgreSQL", "MongoDB"], "#39d353", "delay-4"),
-        ("TOOLS & CLOUD", ["AWS", "Docker", "Kubernetes", "Linux", "Git/GitHub", "VS Code", "Postman", "Figma"], "#a371f7", "delay-5")
+        ("BACKEND &amp; DB", ["Node.js", "Express", "PHP", "MySQL", "PostgreSQL", "MongoDB"], "#39d353", "delay-4"),
+        ("TOOLS &amp; CLOUD", ["AWS", "Docker", "Kubernetes", "Linux", "Git/GitHub", "VS Code", "Postman", "Figma"], "#a371f7", "delay-5")
     ]
 
     for label, items, color, delay in tech_groups:
