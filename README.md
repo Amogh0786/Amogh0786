@@ -45,9 +45,6 @@
   </a>
 </p>
 
-
-</div>
-
 <h3><code>amogh@github ~ $ ./stats.sh</code></h3>
 
 <p align="center">
