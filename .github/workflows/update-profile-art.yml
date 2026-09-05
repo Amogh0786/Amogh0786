@@ -41,8 +41,11 @@ jobs:
       - name: Render tech stack SVG
         run: python scripts/render_tech_stack.py
 
+      - name: Render projects SVG
+        run: python scripts/render_projects.py
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution art & summary cards [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg activity-graph.svg profile-summary-card.svg tech-stack.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg activity-graph.svg profile-summary-card.svg tech-stack.svg projects.svg"

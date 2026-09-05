@@ -47,44 +47,9 @@
 
 <h3><code>amogh@github ~ $ ./projects.sh</code></h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/Amogh0786/Automated_CI-CD_Pipeline_Setup">Automated_CI-CD_Pipeline_Setup</a></h4>
-      <p>Demonstration of DevOps best practices using Azure. Features automated Docker image builds via Azure Container Registry (ACR) and seamless deployments to Azure App Service.</p>
-      <p>🟡 JavaScript</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/Amogh0786/Enterprise_Agentic_RAG">Enterprise_Agentic_RAG</a></h4>
-      <p>Enterprise-Grade Agentic RAG System featuring dynamic SQL/Vector modality routing, Cross-Encoder reranking with token-overlap deduplication, and an Apple visionOS Spatial UI.</p>
-      <p>🔵 Python</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/Amogh0786/Self-Healing-ML-Pipelines">Self-Healing-ML-Pipelines</a></h4>
-      <p>Enterprise-grade Self-Healing MLOps Pipeline with Hybrid Decision Engine (Rules + Contextual Bandits), Automated Drift Monitoring, Airflow, and K8s Zero-Downtime Rollouts</p>
-      <p>🔵 Python</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/Amogh0786/Multi_Agent_Threat_Intel">Multi_Agent_Threat_Intel</a></h4>
-      <p>Multi-Agent Autonomous Threat Intelligence & Tactical SOC Terminal powered by LangGraph, Google Gemini 3.1 Pro, and Vector DBs</p>
-      <p>🔵 Python</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/Amogh0786/RAG_Pipeline">RAG_Pipeline</a></h4>
-      <p>Architected an automated Retrieval-Augmented Generation (RAG) pipeline using Python and LangChain. Implemented local semantic embedding via HuggingFace transformers, vector similarity search with ChromaDB.</p>
-      <p>🔵 Python</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/Amogh0786/AI_Agent_Eval_Pipeline">AI_Agent_Eval_Pipeline</a></h4>
-      <p>A production-grade Autonomous AI Agent built with LangGraph and Google Gemini, augmented with an Automated Evaluation (LLM-as-a-Judge) CI/CD Pipeline.</p>
-      <p>🔵 Python</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./projects.svg" width="860" alt="Amogh's Top Projects" />
+</p>
 
 <h3><code>amogh@github ~ $ ./stats.sh</code></h3>
 
